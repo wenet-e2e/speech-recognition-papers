@@ -1,5 +1,5 @@
 # Speech Recognition Papers
-List of hot directions in industrial speech recognition, i.e., **Streaming ASR** / **WFST based ASR** / **Faster Decoding for E2E ASR** ...
+List of hot directions in industrial speech recognition, i.e., **Streaming ASR** / **Non-autoregressive ASR** / **WFST based ASR** ...
 
 If you are interested in this repo, any [pull request](https://github.com/xingchensong/speech-recognition-papers/pulls) is welcomed.
 
