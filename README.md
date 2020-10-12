@@ -60,3 +60,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - BERT based: [Effective Sentence Scoring Method Using BERT for Speech Recognition](http://proceedings.mlr.press/v101/shin19a/shin19a.pdf) (ACML 2019)
 - BERT based: [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/pdf/2005.07421.pdf) (ACL 2020)
 - Parallel Rescoring: [Parallel Rescoring with Transformer for Streaming On-Device Speech Recognition](https://arxiv.org/pdf/2008.13093.pdf) (Interspeech 2020)
+
+## Model Compression for On-device ASR
+- Lightweight Low-Rank transformer: [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/pdf/1910.13923.pdf) (ICASSP 2020)
+- Attention replacement: [How Much Self-Attention Do We Need ƒ Trading Attention for Feed-Forward Layers](https://www-i6.informatik.rwth-aachen.de/publications/download/1126/IrieKazukiGerstenbergerAlexerSchl%FCterRalfNeyHermann--HowMuchSelf-AttentionDoWeNeed%3FTradingAttentionforFeed-ForwardLayers--2020.pdf) (ICASSP 2020)
