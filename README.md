@@ -32,14 +32,11 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Block-synchronous: [Streaming Transformer ASR with Blockwise Synchronous Inference](https://arxiv.org/pdf/2006.14941.pdf) (ASRU 2019)
 - Block-synchronous with chunk reuse: [Transformer Online CTC/Attention E2E Speech Recognition Architecture](https://arxiv.org/pdf/2001.08290.pdf) (ICASSP 2020)
 - Block-synchronous with RNN-T like decoding rule: [Synchronous Transformers For E2E Speech Recognition](https://arxiv.org/pdf/1912.02958.pdf) (ICASSP 2020)
-- Lightweight Low-Rank transformer: [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/pdf/1910.13923.pdf) (ICASSP 2020)
 - Scout-synchronous: [Low Latency End-to-End Streaming Speech Recognition with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) (Interspeech 2020)
 - CTC-synchronous: [CTC-synchronous Training for Monotonic Attention Model](https://arxiv.org/pdf/2005.04712.pdf) (Interspeech 2020)
 - Memory Augmented Attention: [Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory](https://arxiv.org/pdf/2005.08042.pdf) (Interspeech 2020)
 - Memory Augmented Attention: [Streaming Chunk-Aware Multihead Attention for Online End-to-End Speech Recognition](https://arxiv.org/pdf/2006.01712.pdf) (Interspeech 2020)
 - Optimized Beam Search: [High Performance Sequence-to-Sequence Model for Streaming Speech Recognition](https://arxiv.org/pdf/2003.10022.pdf) (Interspeech 2020)
-- Model Agnostic Meta Learning: [Learning Fast Adaptation on Cross-Accented Speech Recognition](https://arxiv.org/pdf/2003.01901.pdf) (Interspeech 2020)
-- Meta-Transfer Learning: [Meta-Transfer Learning for Code-Switched Speech Recognition](https://www.aclweb.org/anthology/2020.acl-main.348.pdf) (ACL 2020)
 
 ### Unified Streaming/Non-streaming models
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
@@ -63,3 +60,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - BERT based: [Effective Sentence Scoring Method Using BERT for Speech Recognition](http://proceedings.mlr.press/v101/shin19a/shin19a.pdf) (ACML 2019)
 - BERT based: [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/pdf/2005.07421.pdf) (ACL 2020)
 - Parallel Rescoring: [Parallel Rescoring with Transformer for Streaming On-Device Speech Recognition](https://arxiv.org/pdf/2008.13093.pdf) (Interspeech 2020)
+
+## Model Compression for On-device ASR
+- Lightweight Low-Rank transformer: [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/pdf/1910.13923.pdf) (ICASSP 2020)
+- Attention replacement: [How Much Self-Attention Do We Need ƒ Trading Attention for Feed-Forward Layers](https://www-i6.informatik.rwth-aachen.de/publications/download/1126/IrieKazukiGerstenbergerAlexerSchl%FCterRalfNeyHermann--HowMuchSelf-AttentionDoWeNeed%3FTradingAttentionforFeed-ForwardLayers--2020.pdf) (ICASSP 2020)
