@@ -39,6 +39,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Memory Augmented Attention: [Streaming Chunk-Aware Multihead Attention for Online End-to-End Speech Recognition](https://arxiv.org/pdf/2006.01712.pdf) (Interspeech 2020)
 - Optimized Beam Search: [High Performance Sequence-to-Sequence Model for Streaming Speech Recognition](https://arxiv.org/pdf/2003.10022.pdf) (Interspeech 2020)
 - Model Agnostic Meta Learning: [Learning Fast Adaptation on Cross-Accented Speech Recognition](https://arxiv.org/pdf/2003.01901.pdf) (Interspeech 2020)
+- Meta-Transfer Learning: [Meta-Transfer Learning for Code-Switched Speech Recognition](https://www.aclweb.org/anthology/2020.acl-main.348.pdf) (ACL 2020)
 
 ### Unified Streaming/Non-streaming models
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
