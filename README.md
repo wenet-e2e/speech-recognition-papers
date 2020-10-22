@@ -22,6 +22,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Knowledge Distillation for RNN-T: [Knowledge Distillation from Offline to Streaming RNN Transducer for End-to-end Speech Recognition]() (Interspeech 2020)
 - Transfer Learning for RNN-T: [Transfer Learning Approaches for Streaming End-to-End Speech Recognition System](https://arxiv.org/pdf/2008.05086.pdf) (Interspeech 2020)
 - Exploration on RNN-T: [Analyzing the Quality and Stability of a Streaming End-to-End On-Device Speech Recognizer](https://arxiv.org/pdf/2006.01416.pdf) (Interspeech 2020)
+- Sequence-level Emission Regularization for RNN-T: [FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization](https://arxiv.org/pdf/2010.11148.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ### Attention based
 - Montonic Attention: [Montonic Chunkwise Attention](https://arxiv.org/pdf/1712.05382.pdf) (ICLR 2018)
@@ -37,6 +38,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Memory Augmented Attention: [Streaming Transformer-based Acoustic Models Using Self-attention with Augmented Memory](https://arxiv.org/pdf/2005.08042.pdf) (Interspeech 2020)
 - Memory Augmented Attention: [Streaming Chunk-Aware Multihead Attention for Online End-to-End Speech Recognition](https://arxiv.org/pdf/2006.01712.pdf) (Interspeech 2020)
 - Optimized Beam Search: [High Performance Sequence-to-Sequence Model for Streaming Speech Recognition](https://arxiv.org/pdf/2003.10022.pdf) (Interspeech 2020)
+- Memory Augmented Attention: [Emformer: Efficient Memory Transformer Based Acoustic Model For Low Latency Streaming Speech Recognition](https://arxiv.org/pdf/2010.10759.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ### Unified Streaming/Non-streaming models
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
