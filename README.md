@@ -23,6 +23,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Transfer Learning for RNN-T: [Transfer Learning Approaches for Streaming End-to-End Speech Recognition System](https://arxiv.org/pdf/2008.05086.pdf) (Interspeech 2020)
 - Exploration on RNN-T: [Analyzing the Quality and Stability of a Streaming End-to-End On-Device Speech Recognizer](https://arxiv.org/pdf/2006.01416.pdf) (Interspeech 2020)
 - Sequence-level Emission Regularization for RNN-T: [FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization](https://arxiv.org/pdf/2010.11148.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- Model Distillation for RNN-T: [Improving Streaming Automatic Speech Recognition With Non-Streaming  Model Distillation On Unsupervised Data](https://arxiv.org/pdf/2010.12096.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ### Attention based
 - Montonic Attention: [Montonic Chunkwise Attention](https://arxiv.org/pdf/1712.05382.pdf) (ICLR 2018)
