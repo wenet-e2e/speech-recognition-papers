@@ -24,6 +24,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Exploration on RNN-T: [Analyzing the Quality and Stability of a Streaming End-to-End On-Device Speech Recognizer](https://arxiv.org/pdf/2006.01416.pdf) (Interspeech 2020)
 - Sequence-level Emission Regularization for RNN-T: [FastEmit: Low-latency Streaming ASR with Sequence-level Emission Regularization](https://arxiv.org/pdf/2010.11148.pdf) (arXiv 2020, submitted to ICASSP 2021)
 - Model Distillation for RNN-T: [Improving Streaming Automatic Speech Recognition With Non-Streaming  Model Distillation On Unsupervised Data](https://arxiv.org/pdf/2010.12096.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- LM Fusion for RNN-T: [Improved Neural Language Model Fusion for Streaming Recurrent Neural Network Transducer](https://arxiv.org/pdf/2010.13878.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ### Attention based
 - Montonic Attention: [Montonic Chunkwise Attention](https://arxiv.org/pdf/1712.05382.pdf) (ICLR 2018)
@@ -44,6 +45,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 ### Unified Streaming/Non-streaming models
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
 - [Universal ASR: Unify And Improve Streaming ASR With Full-Context Modeling](https://openreview.net/pdf?id=Pz_dcqfcKW8) (ICLR 2021 under double-blind review)
+- [Cascaded encoders for unifying streaming and non-streaming ASR](https://arxiv.org/pdf/2010.14606.pdf) (arXiv 2020)
 
 
 ## Non-autoregressive (NAR)  ASR
