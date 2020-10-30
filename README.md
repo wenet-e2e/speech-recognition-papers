@@ -53,6 +53,10 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - MASK-CTC: [Mask CTC: Non-Autoregressive End-to-End ASR with CTC and Mask Predict](https://arxiv.org/pdf/2005.08700.pdf) (Interspeech 2020)
 - Spike Triggered: [Spike-Triggered Non-Autoregressive Transformer for End-to-End Speech Recognition](https://arxiv.org/pdf/2005.07903.pdf) (Interspeech 2020)
 - Similar to MASK-Predict: [Listen Attentively, and Spell Once: Whole Sentence Generation via a Non-Autoregressive Architecture for Low-Latency Speech Recognition](https://arxiv.org/pdf/2005.04862.pdf) (Interspeech 2020)
+- Improved MASK-CTC: [Improved Mask-CTC for Non-Autoregressive End-to-End ASR](https://arxiv.org/pdf/2010.13270.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- Refine CTC Alignments over Latent Space: [Align-Refine: Non-Autoregressive Speech Recognition via Iterative Realignment](https://arxiv.org/pdf/2010.14233.pdf) (arXiv 2020)
+- Also Refine CTC Alignments over Latent Space: [CASS-NAT: CTC Alignment-based Single Step Non-autoregressive Transformer for Speech Recognition](https://arxiv.org/pdf/2010.14725.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- Refine CTC Alignments over Output Space: [Non-Autoregressive Transformer ASR with CTC-Enhanced Decoder Input](https://arxiv.org/pdf/2010.15025.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ## ASR Rescoring / Spelling Correction (2-pass decoding)
 - Review: [Automatic Speech Recognition Errors Detection and Correction: A Review](https://www.sciencedirect.com/science/article/pii/S1877050918302187) (N/A)
