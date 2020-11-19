@@ -46,6 +46,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - [Transformer Transducer: One Model Unifying Streaming And Non-Streaming Speech Recognition](https://arxiv.org/pdf/2010.03192.pdf) (arXiv 2020)
 - [Universal ASR: Unify And Improve Streaming ASR With Full-Context Modeling](https://openreview.net/pdf?id=Pz_dcqfcKW8) (ICLR 2021 under double-blind review)
 - [Cascaded encoders for unifying streaming and non-streaming ASR](https://arxiv.org/pdf/2010.14606.pdf) (arXiv 2020)
+- Asynchronous Revision for non-streaming ASR: [Dynamic latency speech recognition with asynchronous revision](https://arxiv.org/pdf/2011.01570.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 
 ## Non-autoregressive (NAR)  ASR
