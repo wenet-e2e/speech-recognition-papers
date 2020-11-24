@@ -28,6 +28,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Normalized jointer network: [Improving RNN transducer with normalized jointer network](https://arxiv.org/pdf/2011.01576.pdf) (arXiv 2020)
 - Benchmark on RNN-T CTC LF-MMI: [Benchmarking LF-MMI, CTC and RNN-T Criteria for Streaming ASR](https://arxiv.org/pdf/2011.04785.pdf) (SLT 2021)
 - Alignment Restricted RNN-T: [Alignment Restricted Streaming Recurrent Neural Network Transducer](https://arxiv.org/pdf/2011.03072.pdf) (SLT 2021)
+- Conformer equipped RNN-T (with Cascaded Encoder and 2nd-pass beam search): [A Better and Faster End-to-End Model for Streaming ASR](https://arxiv.org/pdf/2011.10798.pdf) (arXiv 2020, submitted to ICASSP 2021)
 
 ### Attention based
 - Montonic Attention: [Montonic Chunkwise Attention](https://arxiv.org/pdf/1712.05382.pdf) (ICLR 2018)
