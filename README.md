@@ -75,6 +75,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - BERT based: [Spelling Error Correction with Soft-Masked BERT](https://arxiv.org/pdf/2005.07421.pdf) (ACL 2020)
 - Parallel Rescoring: [Parallel Rescoring with Transformer for Streaming On-Device Speech Recognition](https://arxiv.org/pdf/2008.13093.pdf) (Interspeech 2020)
 
-## Model Compression for On-device ASR
+## On-device ASR
+- Review: [A review of on-device fully neural end-to-end automatic speech recognition algorithms](https://arxiv.org/pdf/2012.07974.pdf) (arXiv 2020)
 - Lightweight Low-Rank transformer: [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/pdf/1910.13923.pdf) (ICASSP 2020)
 - Attention replacement: [How Much Self-Attention Do We Need ƒ Trading Attention for Feed-Forward Layers](https://www-i6.informatik.rwth-aachen.de/publications/download/1126/IrieKazukiGerstenbergerAlexerSchl%FCterRalfNeyHermann--HowMuchSelf-AttentionDoWeNeed%3FTradingAttentionforFeed-ForwardLayers--2020.pdf) (ICASSP 2020)
