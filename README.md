@@ -1,3 +1,18 @@
+
+<!-- vim-markdown-toc GFM -->
+
+* [Speech Recognition Papers](#speech-recognition-papers)
+	* [Streaming ASR](#streaming-asr)
+		* [RNA based](#rna-based)
+		* [RNN-T based](#rnn-t-based)
+		* [Attention based](#attention-based)
+		* [Unified Streaming/Non-streaming models](#unified-streamingnon-streaming-models)
+	* [Non-autoregressive (NAR)  ASR](#non-autoregressive-nar--asr)
+	* [ASR Rescoring / Spelling Correction (2-pass decoding)](#asr-rescoring--spelling-correction-2-pass-decoding)
+	* [On-device ASR](#on-device-asr)
+
+<!-- vim-markdown-toc -->
+
 # Speech Recognition Papers
 List of hot directions in industrial speech recognition, i.e., [**Streaming ASR**](https://github.com/xingchensong/speech-recognition-papers/blob/main/README.md#streaming-asr) ([RNA-based](https://github.com/xingchensong/speech-recognition-papers#rna-based) || [RNN-T based](https://github.com/xingchensong/speech-recognition-papers#rnn-t-based) || [Attention based](https://github.com/xingchensong/speech-recognition-papers#attention-based) || [unified streaming/non-streaming](https://github.com/xingchensong/speech-recognition-papers#unified-streamingnon-streaming-models)) / [**Non-autoregressive ASR**](https://github.com/xingchensong/speech-recognition-papers#non-autoregressive-nar--asr) ...
 
