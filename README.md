@@ -29,6 +29,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Benchmark on RNN-T CTC LF-MMI: [Benchmarking LF-MMI, CTC and RNN-T Criteria for Streaming ASR](https://arxiv.org/pdf/2011.04785.pdf) (SLT 2021)
 - Alignment Restricted RNN-T: [Alignment Restricted Streaming Recurrent Neural Network Transducer](https://arxiv.org/pdf/2011.03072.pdf) (SLT 2021)
 - Conformer equipped RNN-T (with Cascaded Encoder and 2nd-pass beam search): [A Better and Faster End-to-End Model for Streaming ASR](https://arxiv.org/pdf/2011.10798.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- Multi-Speaker RNN-T: [Streaming end-to-end multi-talker speech recognition](https://arxiv.org/pdf/2011.13148.pdf)
 
 ### Attention based
 - Montonic Attention: [Montonic Chunkwise Attention](https://arxiv.org/pdf/1712.05382.pdf) (ICLR 2018)
@@ -51,6 +52,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - [Universal ASR: Unify And Improve Streaming ASR With Full-Context Modeling](https://openreview.net/pdf?id=Pz_dcqfcKW8) (ICLR 2021 under double-blind review)
 - [Cascaded encoders for unifying streaming and non-streaming ASR](https://arxiv.org/pdf/2010.14606.pdf) (arXiv 2020)
 - Asynchronous Revision for non-streaming ASR: [Dynamic latency speech recognition with asynchronous revision](https://arxiv.org/pdf/2011.01570.pdf) (arXiv 2020, submitted to ICASSP 2021)
+- 2-pass unifying: [Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition](https://arxiv.org/pdf/2012.05481.pdf)
 
 
 ## Non-autoregressive (NAR)  ASR
