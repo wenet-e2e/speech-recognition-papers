@@ -67,7 +67,8 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - [Universal ASR: Unify And Improve Streaming ASR With Full-Context Modeling](https://openreview.net/pdf?id=Pz_dcqfcKW8) (ICLR 2021 under double-blind review)
 - [Cascaded encoders for unifying streaming and non-streaming ASR](https://arxiv.org/pdf/2010.14606.pdf) (arXiv 2020)
 - Asynchronous Revision for non-streaming ASR: [Dynamic latency speech recognition with asynchronous revision](https://arxiv.org/pdf/2011.01570.pdf) (arXiv 2020, submitted to ICASSP 2021)
-- 2-pass unifying: [Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition](https://arxiv.org/pdf/2012.05481.pdf)
+- 2-pass unifying (1st Streaming CTC, 2nd Attention Rescore): [Unified Streaming and Non-streaming Two-pass End-to-end Model for Speech Recognition](https://arxiv.org/pdf/2012.05481.pdf)
+- 2-pass unifying (1st Streaming CTC, 2nd Attention Rescore): [One In A Hundred: Select The Best Predicted Sequence from Numerous Candidates for Streaming Speech Recognition](https://arxiv.org/pdf/2010.14791.pdf) (arXiv 2020)
 
 
 ## Non-autoregressive (NAR)  ASR
