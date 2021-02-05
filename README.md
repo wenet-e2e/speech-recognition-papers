@@ -96,3 +96,4 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Review: [A review of on-device fully neural end-to-end automatic speech recognition algorithms](https://arxiv.org/pdf/2012.07974.pdf) (arXiv 2020)
 - Lightweight Low-Rank transformer: [Lightweight and Efficient End-to-End Speech Recognition Using Low-Rank Transformer](https://arxiv.org/pdf/1910.13923.pdf) (ICASSP 2020)
 - Attention replacement: [How Much Self-Attention Do We Need ƒ Trading Attention for Feed-Forward Layers](https://www-i6.informatik.rwth-aachen.de/publications/download/1126/IrieKazukiGerstenbergerAlexerSchl%FCterRalfNeyHermann--HowMuchSelf-AttentionDoWeNeed%3FTradingAttentionforFeed-ForwardLayers--2020.pdf) (ICASSP 2020)
+- Lightweight transducer with WFST based decoding: [Tiny Transducer: A Highly-efficient Speech Recognition Model on Edge Devices](https://arxiv.org/pdf/2101.06856.pdf) (ICASSP 2021)
