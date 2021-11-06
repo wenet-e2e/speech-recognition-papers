@@ -103,3 +103,15 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 ## Noisy Student Training(Self Training)
 - Self training with filtering and ensembles: [Self-training for end-to-end speech recognition](https://arxiv.org/pdf/1909.09116.pdf) (ICASSP 2020)
 - Improved Noisy Student Training by gradational filtering: [Improved Noisy Student Training for Automatic Speech Recognition](https://arxiv.org/pdf/2005.09629.pdf) (Interspeech 2020)
+
+## Pretraining
+
+### APC(Autoregressive Predictive Coding)
+- [An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/pdf/1904.03240.pdf) (Interspeech 2019)
+- [Generative Pre-Training for Speech with Autoregressive Predictive Coding](https://arxiv.org/pdf/1910.12607.pdf) (ICASSP 2020)
+
+### CPC(Contrastive Predictive Coding)
+
+- [wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/pdf/1904.05862.pdf) (Schneider et al., 2019)
+- [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/pdf/1910.05453.pdf) (Baevski et al., 2019)
+- [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://arxiv.org/pdf/2006.11477.pdf) (Baevski et al., 2020)
