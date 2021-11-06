@@ -99,3 +99,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Attention replacement: [How Much Self-Attention Do We Need ƒ Trading Attention for Feed-Forward Layers](https://www-i6.informatik.rwth-aachen.de/publications/download/1126/IrieKazukiGerstenbergerAlexerSchl%FCterRalfNeyHermann--HowMuchSelf-AttentionDoWeNeed%3FTradingAttentionforFeed-ForwardLayers--2020.pdf) (ICASSP 2020)
 - Lightweight transducer with WFST based decoding: [Tiny Transducer: A Highly-efficient Speech Recognition Model on Edge Devices](https://arxiv.org/pdf/2101.06856.pdf) (ICASSP 2021)
 - Cascade transducer: [Cascade RNN-Transducer: Syllable Based Streaming On-device Mandarin Speech Recognition with a Syllable-to-Character Converter](https://arxiv.org/pdf/2011.08469.pdf) (SLT 2021)
+
+## Noisy Student Training(Self Training)
+- Self training with filtering and ensembles: [Self-training for end-to-end speech recognition](https://arxiv.org/pdf/1909.09116.pdf) (ICASSP 2020)
+- Improved Noisy Student Training by gradational filtering: [Improved Noisy Student Training for Automatic Speech Recognition](https://arxiv.org/pdf/2005.09629.pdf) (Interspeech 2020)
