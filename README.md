@@ -2,14 +2,18 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Speech Recognition Papers](#speech-recognition-papers)
-	* [Streaming ASR](#streaming-asr)
-		* [RNA based](#rna-based)
-		* [RNN-T based](#rnn-t-based)
-		* [Attention based](#attention-based)
-		* [Unified Streaming/Non-streaming models](#unified-streamingnon-streaming-models)
-	* [Non-autoregressive (NAR)  ASR](#non-autoregressive-nar--asr)
-	* [ASR Rescoring / Spelling Correction (2-pass decoding)](#asr-rescoring--spelling-correction-2-pass-decoding)
-	* [On-device ASR](#on-device-asr)
+  * [Streaming ASR](#streaming-asr)
+    * [RNA based](#rna-based)
+    * [RNN-T based](#rnn-t-based)
+    * [Attention based](#attention-based)
+    * [Unified Streaming/Non-streaming models](#unified-streamingnon-streaming-models)
+  * [Non-autoregressive (NAR)  ASR](#non-autoregressive-nar--asr)
+  * [ASR Rescoring / Spelling Correction (2-pass decoding)](#asr-rescoring--spelling-correction-2-pass-decoding)
+  * [On-device ASR](#on-device-asr)
+  * [Noisy Student Training(Self Training)](#noisy-student-trainingself-training)
+  * [Pretraining](#pretraining)
+    * [APC(Autoregressive Predictive Coding)](#apcautoregressive-predictive-coding)
+    * [CPC(Contrastive Predictive Coding)](#cpccontrastive-predictive-coding)
 
 <!-- vim-markdown-toc -->
 
