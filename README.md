@@ -11,7 +11,7 @@
   * [ASR Rescoring / Spelling Correction (2-pass decoding)](#asr-rescoring--spelling-correction-2-pass-decoding)
   * [On-device ASR](#on-device-asr)
   * [Noisy Student Training(Self Training)](#noisy-student-trainingself-training)
-  * [Pretraining](#pretraining)
+  * [Self Supervised Learning (SSL)](#self-supervised-learning-ssl)
     * [APC(Autoregressive Predictive Coding)](#apcautoregressive-predictive-coding)
     * [CPC(Contrastive Predictive Coding)](#cpccontrastive-predictive-coding)
 
@@ -108,7 +108,7 @@ If you are interested in this repo, any [pull request](https://github.com/xingch
 - Self training with filtering and ensembles: [Self-training for end-to-end speech recognition](https://arxiv.org/pdf/1909.09116.pdf) (ICASSP 2020)
 - Improved Noisy Student Training by gradational filtering: [Improved Noisy Student Training for Automatic Speech Recognition](https://arxiv.org/pdf/2005.09629.pdf) (Interspeech 2020)
 
-## Pretraining
+## Self Supervised Learning(SSL)
 
 ### APC(Autoregressive Predictive Coding)
 - [An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/pdf/1904.03240.pdf) (Interspeech 2019)
